@@ -1,0 +1,10 @@
+# Auto-detect text files
+* text=auto
+
+# Generated files - mark as generated for GitHub
+100_DuckDB_exercises.ipynb linguist-generated
+100_DuckDB_exercises.md linguist-generated
+100_DuckDB_exercises_with_hints.md linguist-generated
+100_DuckDB_exercises_with_solutions.md linguist-generated
+100_DuckDB_exercises_with_hints_with_solutions.md linguist-generated
+100_DuckDB_random.ipynb linguist-generated

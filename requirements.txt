@@ -1,0 +1,3 @@
+duckdb>=0.9.0
+nbformat>=5.0.0
+mdutils>=1.4.0
